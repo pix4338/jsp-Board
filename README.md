@@ -30,4 +30,4 @@
 ![image](https://user-images.githubusercontent.com/62654187/84112284-6919bc80-aa63-11ea-9b68-cad936c8fff1.png)
 
 PDF문서
-https://drive.google.com/file/d/10dWCPEZ0VSJLAfh-U6JToSQ4QFa-U8O_/view?usp=sharing
+ https://drive.google.com/file/d/100CLfD_H0pm1mmasyv0UhwgricNIbYn6/view?usp=sharing
