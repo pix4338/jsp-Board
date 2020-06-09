@@ -12,4 +12,10 @@
 - 파일 구조
 - 기능 설계
 - 코드 설명
+## 1. 메인화면
+![image](https://user-images.githubusercontent.com/62654187/84110692-4d60e700-aa60-11ea-8329-30b20d8a181e.png)
+## 2. 게시판 화면
+![image](https://user-images.githubusercontent.com/62654187/84111099-2951d580-aa61-11ea-977f-5820a779f256.png)
 
+PDF문서
+https://drive.google.com/file/d/10dWCPEZ0VSJLAfh-U6JToSQ4QFa-U8O_/view?usp=sharing
