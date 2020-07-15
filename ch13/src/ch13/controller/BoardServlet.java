@@ -230,14 +230,13 @@ public class BoardServlet extends HttpServlet {
 						request.setAttribute("checkId",0);
 						logDb.getId();
 						request.getSession().setAttribute("id", id);
-						request.getSession().setAttribute("nickname ",logDb.getNickname());
-						//request.setAttribute("checkId",1);
+						request.getSession().setAttribute("nickname",logDb.getNickname());
 						request.setAttribute("check", 1);
 						viewPage = "mypage.jsp";	
 						//System.out.println("1"+request.getAttribute("nickname ") +""+logDb.getNickname() );
 					}else {
 							//pwd가 틀림
-					
+						request.setAttribute("checkId", 1);
 						viewPage = "shoppingLogin.jsp";		
 						
 					}
